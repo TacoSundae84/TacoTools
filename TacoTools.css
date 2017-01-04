@@ -1,0 +1,15 @@
+main{font-family: monospace; font-size: 14px;}
+	#raceOptions{margin: 10px 0; border: 1px solid black;}
+		#raceOptions tr:nth-child(even){background-color: #EEEEEE;}
+		.optName{font-weight: bold;}
+		.boxContainer{max-width: 700px; padding: 2px 5px 2px 0;}
+			.boxContainer label{margin-left: 10px; display: inline-block;}
+	.buttonBox{margin: 10px 0;}
+		#raceDrop{padding: 5px 2px; border-radius: 10%; border-style: solid; border-color: black;}
+			#raceDrop:hover{box-shadow: 1px 5px 7px #888888;}
+		.buttonBox button{ border-style: solid; background-color: #DDFFAA; border-color: black; border-radius: 10%; border-width: 1px; 
+			padding: 6px; outline: none;}
+			.buttonBox button:hover{box-shadow: 1px 5px 7px #888888;}
+	#npcResult{display: inline-block; border: 1px solid black; max-width: 700px;}
+		#npcResult div{padding: 3px;}
+		#npcResult div:nth-child(even){background-color: #EEEEEE;}

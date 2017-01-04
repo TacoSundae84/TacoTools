@@ -1,0 +1,323 @@
+{
+	"race":{
+		"Human":[
+			{"id":"sex", "display":"Sex", "lists":[
+				{"display":"Male", "list":"male"},
+				{"display":"Female", "list":"female"}], "count":1},
+			{"id":"name", "display":"Name", "lists":[
+				{"display":"German", "list":"german"},
+				{"display":"Anglo-Saxon", "list":"angloSaxon"},
+				{"display":"Old Norse", "list":"oldNorse"}], "count":1},
+			{"id":"hairColor", "display":"Hair Color", "lists":[
+				{"display":"Basic", "list":"basic"}, 
+				{"display":"Northern", "list":"northern"}, 
+				{"display":"Aged", "list":"aged"}], "count":1},
+			{"id":"hairStyle", "display":"Hair Style", "lists":[
+				{"display":"Long", "list":"long"}, 
+				{"display":"Short", "list":"short"}, 
+				{"display":"None", "list":"none"}], "count":1},
+			{"id":"facialHair", "display":"Facial Hair", "lists":[
+				{"display":"Full Beards", "list":"fullBeard"}, 
+				{"display":"Mustaches", "list":"mustache"}, 
+				{"display":"Partial Beards", "list":"partialBeard"}, 
+				{"display":"None", "list":"none"}], "count":1},
+			{"id":"eyes", "display":"Eye Color", "lists":[
+				{"display":"Dark", "list":"standDark"}, 
+				{"display":"Light", "list":"standLight"}, 
+				{"display":"Exotic", "list":"humanExotic"}], "count":1},
+			{"id":"skin", "display":"Skin Color", "lists":[
+				{"display":"Light", "list":"standLight"}, 
+				{"display":"Dark", "list":"standDark"}, 
+				{"display":"Tan", "list":"standTan"}], "count":1},
+			{"id":"age", "display":"Age", "lists":[
+				{"display":"Young", "list":"humYoung"}, 
+				{"display":"Middle Aged", "list":"humMiddle"}, 
+				{"display":"Old", "list":"humOld"}], "count":1},
+			{"id":"height", "display":"Height", "lists":[
+				{"display":"Short", "list":"humShort"}, 
+				{"display":"Medium", "list":"humMedium"}, 
+				{"display":"Tall", "list":"humTall"}], "count":1},
+			{"id":"weight", "display":"Weight", "lists":[
+				{"display":"Skinny", "list":"humSkinny"}, 
+				{"display":"Middle", "list":"humMiddle"}, 
+				{"display":"Heavy", "list":"humHeavy"}], "count":1},
+			{"id":"personality", "display":"Personality", "lists":[{"display":"All", "list":"all"}],  "count":3}
+		], 
+		
+		"Dwarf":[
+			{"id":"sex", "display":"Sex", "lists":[
+				{"display":"Male", "list":"male"},
+				{"display":"Female", "list":"female"}], "count":1},
+			{"id":"name", "display":"Name", "lists":[
+				{"display":"German", "list":"german"},
+				{"display":"Anglo-Saxon", "list":"angloSaxon"},
+				{"display":"Old Norse", "list":"oldNorse"}], "count":1},
+			{"id":"hairColor", "display":"Hair Color", "lists":[
+				{"display":"Basic", "list":"basic"}, 
+				{"display":"Northern", "list":"northern"}, 
+				{"display":"Aged", "list":"aged"}], "count":1},
+			{"id":"hairStyle", "display":"Hair Style", "lists":[
+				{"display":"Long", "list":"long"}, 
+				{"display":"Short", "list":"short"}, 
+				{"display":"None", "list":"none"}], "count":1},
+			{"id":"facialHair", "display":"Facial Hair", "lists":[
+				{"display":"Full Beards", "list":"fullBeard"}, 
+				{"display":"Mustaches", "list":"mustache"}, 
+				{"display":"Partial Beards", "list":"partialBeard"}], "count":1},
+			{"id":"eyes", "display":"Eye Color", "lists":[
+				{"display":"Dark", "list":"standDark"}, 
+				{"display":"Light", "list":"standLight"}, 
+				{"display":"Exotic", "list":"humanExotic"}], "count":1},
+			{"id":"skin", "display":"Skin Color", "lists":[
+				{"display":"Light", "list":"standLight"}, 
+				{"display":"Dark", "list":"standDark"}, 
+				{"display":"Tan", "list":"standTan"}], "count":1},
+			{"id":"age", "display":"Age", "lists":[
+				{"display":"Young", "list":"dwarfYoung"}, 
+				{"display":"Middle Aged", "list":"dwarfMiddle"}, 
+				{"display":"Old", "list":"dwarfOld"}], "count":1},
+			{"id":"height", "display":"Height", "lists":[
+				{"display":"Short", "list":"dwarfShort"}, 
+				{"display":"Medium", "list":"dwarfMedium"}, 
+				{"display":"Tall", "list":"dwarfTall"}], "count":1},
+			{"id":"weight", "display":"Weight", "lists":[
+				{"display":"Skinny", "list":"dwarfSkinny"}, 
+				{"display":"Middle", "list":"dwarfMiddle"}, 
+				{"display":"Heavy", "list":"dwarfHeavy"}], "count":1},
+			{"id":"personality", "display":"Personality", "lists":[{"display":"All", "list":"all"}],  "count":3}
+		], 
+		
+		"Alfar":{
+		}, 
+		
+		"Halfing":[
+			{"id":"sex", "display":"Sex", "lists":[
+				{"display":"Male", "list":"male"},
+				{"display":"Female", "list":"female"}], "count":1},
+			{"id":"name", "display":"Name", "lists":[
+				{"display":"German", "list":"german"},
+				{"display":"Anglo-Saxon", "list":"angloSaxon"},
+				{"display":"Old Norse", "list":"oldNorse"}], "count":1},
+			{"id":"hairColor", "display":"Hair Color", "lists":[
+				{"display":"Basic", "list":"basic"}, 
+				{"display":"Northern", "list":"northern"}, 
+				{"display":"Aged", "list":"aged"}], "count":1},
+			{"id":"hairStyle", "display":"Hair Style", "lists":[
+				{"display":"Long", "list":"long"}, 
+				{"display":"Short", "list":"short"}, 
+				{"display":"None", "list":"none"}], "count":1},
+			{"id":"facialHair", "display":"Facial Hair", "lists":[
+				{"display":"Full Beards", "list":"fullBeard"}, 
+				{"display":"Mustaches", "list":"mustache"}, 
+				{"display":"Partial Beards", "list":"partialBeard"}, 
+				{"display":"None", "list":"none"}], "count":1},
+			{"id":"eyes", "display":"Eye Color", "lists":[
+				{"display":"Dark", "list":"standDark"}, 
+				{"display":"Light", "list":"standLight"}, 
+				{"display":"Exotic", "list":"humanExotic"}], "count":1},
+			{"id":"skin", "display":"Skin Color", "lists":[
+				{"display":"Light", "list":"standLight"}, 
+				{"display":"Dark", "list":"standDark"}, 
+				{"display":"Tan", "list":"standTan"}], "count":1},
+			{"id":"age", "display":"Age", "lists":[
+				{"display":"Young", "list":"halfYoung"}, 
+				{"display":"Middle Aged", "list":"halfMiddle"}, 
+				{"display":"Old", "list":"halfOld"}], "count":1},
+			{"id":"height", "display":"Height", "lists":[
+				{"display":"Short", "list":"halfShort"}, 
+				{"display":"Medium", "list":"halfMedium"}, 
+				{"display":"Tall", "list":"halfTall"}], "count":1},
+			{"id":"weight", "display":"Weight", "lists":[
+				{"display":"Skinny", "list":"halfSkinny"}, 
+				{"display":"Middle", "list":"halfMiddle"}, 
+				{"display":"Heavy", "list":"halfHeavy"}], "count":1},
+			{"id":"personality", "display":"Personality", "lists":[{"display":"All", "list":"all"}],  "count":3}
+		], 
+		
+		"Gnome":{
+		}, 
+		
+		"Half-elf":{
+		},
+		
+		"Mer":{
+		},
+		
+		"Gigante":[
+			{"id":"sex", "display":"Sex", "lists":[
+				{"display":"Male", "list":"male"},
+				{"display":"Female", "list":"female"}], "count":1},
+			{"id":"name", "display":"Name", "lists":[
+				{"display":"German", "list":"german"},
+				{"display":"Anglo-Saxon", "list":"angloSaxon"},
+				{"display":"Old Norse", "list":"oldNorse"}], "count":1},
+			{"id":"hairColor", "display":"Hair Color", "lists":[
+				{"display":"Basic", "list":"basic"}, 
+				{"display":"Aged", "list":"aged"}], "count":1},
+			{"id":"hairStyle", "display":"Hair Style", "lists":[
+				{"display":"Long", "list":"long"}, 
+				{"display":"Short", "list":"short"}, 
+				{"display":"None", "list":"none"}], "count":1},
+			{"id":"facialHair", "display":"Facial Hair", "lists":[
+				{"display":"Full Beards", "list":"fullBeard"}, 
+				{"display":"Mustaches", "list":"mustache"}, 
+				{"display":"Partial Beards", "list":"partialBeard"}, 
+				{"display":"None", "list":"none"}], "count":1},
+			{"id":"eyes", "display":"Eye Color", "lists":[
+				{"display":"Dark", "list":"standDark"}, 
+				{"display":"Light", "list":"standLight"}, 
+				{"display":"Exotic", "list":"humanExotic"}], "count":1},
+			{"id":"skin", "display":"Skin Color", "lists":[
+				{"display":"Tan", "list":"standTan"}], "count":1},
+			{"id":"age", "display":"Age", "lists":[
+				{"display":"Young", "list":"humYoung"}, 
+				{"display":"Middle Aged", "list":"humMiddle"}, 
+				{"display":"Old", "list":"humOld"}], "count":1},
+			{"id":"height", "display":"Height", "lists":[
+				{"display":"Short", "list":"gigShort"}, 
+				{"display":"Medium", "list":"gigMedium"}, 
+				{"display":"Tall", "list":"gigTall"}], "count":1},
+			{"id":"weight", "display":"Weight", "lists":[
+				{"display":"Skinny", "list":"gigSkinny"}, 
+				{"display":"Middle", "list":"gigMiddle"}, 
+				{"display":"Heavy", "list":"gigHeavy"}], "count":1},
+			{"id":"personality", "display":"Personality", "lists":[{"display":"All", "list":"all"}],  "count":3}
+		],
+		
+		"Longzi":{
+		},
+		
+		"Shiumare":{
+		}
+	},
+	
+	"sex":{
+		"fieldType":{"type":"list","dependent":"none"},
+		"male":["male"],
+		"female":["female"]
+	},
+	
+	"hairColor":{
+		"fieldType":{"type":"list","dependent":"none"},
+		"basic":["black", "burnette", "auburn"],
+		"northern":["dark blonde", "blonde", "bleach blonde", "dark redhead", "light redhead", "redhead"],
+		"aged":["light grey", "dark grey", "white"]
+	},
+	
+	"hairStyle":{
+		"fieldType":{"type":"list","dependent":"none"},
+		"long":["long and wavy", "long and curly", "long and straight", "long, braided"],
+		"short":["short and curly", "short and straight", "short and wavy", "topknot", "short and stubly", "short and slicked back"],
+		"none":["bald"]
+	},
+	
+	"facialHair":{
+		"fieldType":{"type":"list","dependent":"sex"},
+		"fullBeard":{"male":["long, braided full beard", "short, well-kept full beard", "long, straight full beard"], "female":["none"]},
+		"partialBeard":{"male":["chinstrap beard", "goatee", "goatee and mustache", "thick stubble", "mutton chops and mustache"], "female":["none"]},
+		"mustache":{"male":["short, pointed mustache", "long mustache, curled at the tip", "bushy handlebar mustache"], "female":["none"]},
+		"none":{"male":["none"], "female":["none"]}
+	},
+	
+	"eyes":{
+		"fieldType":{"type":"list","dependent":"none"},
+		"standDark":["brown", "black"],
+		"standLight":["blue", "green", "grey"],
+		"humanExotic":["amber", "hazel"],
+		"exotic":["yellow", "aqua", "red", "purple"]
+	},
+	
+	"skin":{
+		"fieldType":{"type":"list","dependent":"none"},
+		"standLight":["pale", "fair", "light"],
+		"standTan":["light tan", "tan", "dark tan"],
+		"standDark":["brown", "dark brown", "black"]
+	},
+	
+	"age":{
+		"fieldType":{"type":"range","dependent":"none"},
+		"humYoung":[[18, 35]],
+		"humMiddle":[[36, 64]],
+		"humOld":[[65, 85]],
+		
+		"dwarfYoung":[[20, 90]],
+		"dwarfMiddle":[[91, 190]],
+		"dwarfOld":[[191, 270]],
+
+		"halfYoung":[[18, 69]],
+		"halfMiddle":[[70, 139]],
+		"halfOld":[[140, 180]]
+	},
+
+	"height":{
+		"fieldType":{"type":"range","dependent":"none"},
+		"humTall":[[71, 77]],
+		"humMedium":[[67, 72]],
+		"humShort":[[60, 66]],
+		
+		"dwarfTall":[[56, 59]],
+		"dwarfMedium":[[52, 55]],
+		"dwarfShort":[[48, 51]],
+		
+		"elfTall":[[70, 75]],
+		"elfMedium":[[64, 69]],
+		"elfShort":[[58, 63]],
+		
+		"halfTall":[[39, 41]],
+		"halfMedium":[[35, 38]],
+		"halfShort":[[31, 34]],
+		
+		"gigTall":[[78, 84]],
+		"gigMedium":[[71, 77]],
+		"gigShort":[[67, 72]],
+		
+		"gnomeTall":[[45, 48]],
+		"gnomeMedium":[[40, 44]],
+		"gnomeShort":[[36, 39]],
+		
+		"helfTall":[[70, 75]],
+		"helfMedium":[[64, 69]],
+		"helfShort":[[58, 63]]
+	},
+	
+	"weight":{
+		"fieldType":{"type":"range","dependent":"none"},
+		"humSkinny":[[18, 22]],
+		"humMiddle":[[23, 28]],
+		"humHeavy":[[27, 35]],
+		
+		"dwarfSkinny":[[29, 34]],
+		"dwarfMiddle":[[35, 40]],
+		"dwarfHeavy":[[41, 46]],
+		
+		"gigSkinny":[[24, 29]],
+		"gigMiddle":[[30, 35]],
+		"gigHeavy":[[36, 41]],
+
+		"halfSkinny":[[18, 22]],
+		"halfMiddle":[[23, 28]],
+		"halfHeavy":[[29, 35]]
+
+	},
+	
+	"personality":{
+		"fieldType":{"type":"list","dependent":"none"},
+		"all":["Garrulous","Hot-tempered","Overbearing","Articulate","Antagonistic","Haughty","Elitist","Proud","Rude","Truthful","Aloof","Mischievous","Impulsive","Lusty","Irreverent","Madcap","Thoughtless","Absent-minded","Dreamy","Lacking common sense","Insensitive","Brave","Craven","Shy","Fearless","Obsequious","Inquisitive","Prying","Intellectual","Perceptive","Keen","Perfectionist","Stern","Harsh","Punctual","Driven","Trusting","Kind-hearted ","Forgiving","Easy-going","Compassionate","Miserly","Hard-hearted","Covetous","Avaricious","Thrifty","Wastrel","Spendthrift","Extravagant","Kind","Charitable","Gloomy","Morose","Compulsive","Irritable","Vengeful","Honest","Innocent","Gullible","Hick","Bigoted","Biased","Narrow-minded ","Blustering","Hidebound","Cheerful","Happy","Diplomatic","Pleasant","Foolhardy","Fatalistic","Depressing","Cynical","Sarcastic","Realistic","Laconic","Soft-spoken","Secretive","Retiring","Mousy","Practical","Level-headed","Dull","Reverent","Ponderous","Scheming","Paranoid","Cautious","Deceitful","Nervous","Uncultured","Boorish","Barbaric","Graceless","Crude","Cruel","Sadistic","Immoral","Jealous","Warlike","Violent","Uncivilized","Suspicious","Sober","Quiet","Pessimistic","Optimistic","Opinionated","Naive","Moody","Generous","Greedy","Friendly","Exacting","Curious","Couragous","Careless","Capricious","Arrogant","Argumentative"]
+	},
+
+	"name":{
+		"fieldType":{"type":"list","dependent":"sex"},
+		"oldNorse":{
+			"male":["Þorsteinn","Þórðr","Þorkell","Þorbiǫrn","Þórir","Þorgeirr","Helgi","Þórarinn","Ketill","Biǫrn","Þorgrímr","Grímr","Þórólfr","Þorgils","Einarr","Eyvindr","Þorvaldr","Ormr","Þormóðr","Oddr","Þorleifr","Úlfr","Brandr","Hrólfr","Óláfr","Ásgeirr","Bárðr","Eyiólfr","Halldórr","Hallr","Hrafn","Sigurðr","Atli","Ásbiǫrn","Ingialdr","Eysteinn","Skeggi","Snorri","Arnórr","Hróaldr","Steinn","Steinólfr","Ǫnundr","Ásmundr","Biarni","Bǫðvarr","Illugi","Jǫrundr","Már","Þóroddr","Eiríkr","Hildir","Þorfinnr","Þrándr","Ǫrn","Auðun","Egill","Guðmundr","Gunnarr","Heriólfr","Sigmundr","Þorlákr","Héðinn","Ófeigr","Vémundr","Þorbrandr","Ǫzurr","Án","Jón","Kolbeinn","Kollr","Sǫlvi","Þorleikr","Þorvarðr","Þróndr","Ǫlvir","Ǫrnólfr","Ari","Eilífr","Finnr","Geirmundr","Gizurr","Hallsteinn","Haraldr","Kiallakr","Kolli","Loftr","Sturla","Þórhallr","Flosi","Gísli","Guðlaugr","Gunnsteinn","Hallvarðr","Hólmsteinn","Hrappr","Hóskuldr","Óleifr","Refr","Surtr","Sveinbiǫrn","Torfi","Þorbergr","Arngrímr","Álfr","Bergþórr","Bersi","Glúmr","Hallbiǫrn","Hámundr","Hǫgni","Kári","Óttarr","Sighvatr","Steingrímr","Þorberger","Arngeirr","Ármóðr","Ásbrandr","Áskell","Áslákr","Bergr","Brúni","Bryniólfr","Bǫdmóðr","Bǫrkr","Finnbogi","Galti","Geirr","Gellir","Gestr","Gnúpr","Grímólfr","Gríss","Guðleifr","Gunniǫrn","Gunnlaugr","Gunnólfr","Hallkell","Hákon","Hávarðr","Hermundr","Hialti","Hiǫrleifr","Hiǫrr","Hrafnkell","Hrani","Hreiðarr","Hróarr","Ingólfr","Ívarr","Karl","Kálfr","Kárr","Kiartan","Klængr","Koðrán","Kolgrímr","Kolr","Konáll","Mǫrór","Oddi","Otkell","Rauðr","Rúnólfr","Sigfúss","Skíði","Skúli","Skúmr","Steinarr","Steinmóðr","Steinrǫðr","Styrmir","Sumarliði","Svartr","Svertingr","Sæmundr","Teitr","Úlfar","Úlfheðinn","Valþiólfr","Vestarr","Vigfúss","Þórhaddr","Þorgestr","Þórormr","Þorviðr","Aðils","Arnbiǫrn","Arnmóðr","Ásmólfr","Bolli","Bǫlverkr","Dufþakr","Finni","Finnvarðr","Flóki","Gautr","Geiri","Geirrǫðr","Gils","Grani","Hafliði","Hafr","Hallgrímr","Halli","Haukr","Hálfdan","Hárekr","Hlǫðver","Hróðgeirr","Hrómundr","Hrærekr","Hórðr","Ísleifr","Ísrauðr","Jósteinn","Jǫkull","Karli","Kleppiárn","Kollsveinn","Máni","Niáll","Oddleifr","Pétr","Snæbiǫrn","Steinbiǫrn","Steinþórr","Svarthǫfði","Sveinungr","Sólmundr","Tanni","Tiórvi","Tyrfingr","Vermundr","Vestmaðr","Vébrandr","Végestr","Véþormr","Vífill","Þiðrandi","Þióðólfr","Þióðrekr","Þrǫstr","Ævarr","Ǫrlygr","Ǫlmóðr"],
+			"female":["Þuríðr","Þorgerðr","Þórdís","Helga","Þórunn","Guðrún","Þóra","Valgerðr","Yngvildr","Vigdís","Þorbiǫrg","Jórunn","Steinunn","Þorkatla","Halldóra","Gróa","Halla","Álǫf","Ástríðr","Hallbera","Þorlaug","Hallveig","Herdís","Rannveig","Æsa","Ingibiǫrg","Sigríðr","Þórhildr","Arnóra","Gunnhildr","Þórarna","Ásdís","Guðríðr","Hallgerðr","Hlíf","Kolfinna","Salgerðr","Þórný","Arnbiǫrg","Arndís","Arngerðr","Arnkatla","Arnleif","Auðr","Álfgerðr","Ásgerðr","Ásný","Ásvǫr","Bergþóra","Biǫrg","Dalla","Finna","Friðgerðr","Geirhildr","Geirlaug","Geirríðr","Gerðr","Guðlaug","Guðný","Hallfríðr","Hallkatla","Hróðný","Ingunn","Ísgerðr","Járngerðr","Jófríðr","Jóra","Jóreiðr","Oddný","Otkatla","Ragnheiðr","Ragnhildr","Riúpa","Signý","Valdís","Vilborg","Þióðhildr","Þórey","Þorlót","Aldís","Arneiðr","Arnfríðr","Arngunnr","Arnþruðr","Álfdís","Álfeiðr","Ása","Ásbiórg","Áshildr","Ásleif","Ásta","Bera","Bergdís","Bergliót","Birna","Biargey","Biollok","Bót","Bótey","Bryngerðr","Dagrún","Dís","Dýrfinna","Eðna","Eirný","Eydís","Eyia","Fastný","Fiórleif","Fregerðr","Geirbiórg","Geirný","Giaflaug","Grélǫð","Gríma","Guðbiǫrg","Guðleif","Gunnvǫr","Hafþóra","Hallbiǫrg","Halldís","Hallvǫr","Heiðr","Heimlaug","Herríðr","Herþrúðr","Hervǫr","Hildigunnr","Hiálmgerðr","Hiálp","Hrefna","Hrafnhildr","Húngerðr","Iðunn","Ingigerðr","Ingríðr","Ingileif","Ingvǫldr","Jódís","Kaðlín","Katla","Ketilríðr","Kiǫlvǫr","Kolgríma","Melkorka","Miǫll","Móeiðr","Myrgiol","Mýrún","Mæva","Niðbiǫrg","Oddbiǫrg","Oddfríðr","Oddlaug","Oddleif","Ormhildr","Ósk","Rafǫrta","Reginleif","Salbiǫrg","Snælaug","Sólveig","Steinvǫr","Svana","Svanlaug","Sæhildr","Sæuðr","Sǫlvǫr","Tófa","Úlfeiðr","Úlfhildr","Úlfrún","Védís","Vélaug","Véný","Vilgerðr","Ýrr","Þióðgerðr","Þorfinna","Þorgríma","Þórelfr","Þorleif","Þórodda","Þórvé","Þórvǫr","Þraslaug","Ægileif","Ǫndót"]
+		},
+		"angloSaxon":{
+			"male":["Ælle","Ælfwine","Æðelbert","Æðelfrid","Æðelhun","Æðelred","Æðelwald","Æðelwalh","Alchfrid","Aldfrid","Aldhelm","Alduini","Aldwulf","Alric","Andhun","Anna","Berðun","Bertwald","Cædmon","Cælin","Cearl","Ceolwulf","Coenred","Coenwalh","Cuichelm","Cuðbert","Cynegels","Cynefrid","Eadbald","Eadbert","Eadfrid","Eadric","Eadwyn","Eafa","Eanfrid","Earconbert","Earpwald","Egbert","Egfrid","Egric","Eni","Hengist","Hereric","Hlothere","Hlotheri","Horsa","Hunwald","Immin","Irminric","Octa","Oeric","Offa","Osfrid","Osred","Osric","Oswald","Oswy","Oswyn","Peada","Penda","Rægenhere","Redwald","Ricbert","Sabert","Sebbi","Sigbert","Sighard","Sighere","Swefred","Swidhelm","Thrydwulf","Tondbert","Tondhere","Wictred","Wilfrid","Wini","Wuffa","Wuscfrea","Wulfhere","Yffi"],
+			"female":["Æbbe","Æffe","Ælfflæd","Ælfgifu","Ælfgyth","Ælfhild","Ælfswith","Ælfthryth","Ælfwaru","Ælfwen","Ælfwyn","Æscwyn","Æthelburh","Æthelflæd","Æthelgifu","Æthelgyth","Æthelhild","Æþelleofu","Æthelswith","Æthelthryth","Æthelwyn","Ætte","Beorhtgifu","Beorhtwaru","Beorhtwen","Beorhtwyn","Beornflæd","Beorngyth","Beornthryth","Beornwyn","Bertana","Bote","Bugge","Burghild","Ceolburh","Ceolflæd","Ceolthryth","Ceolwen","Ceolwyn","Cille","Crawa","Cwen","Cwenburh","Cwengyth","Cwenthryth","Cyneburh","Cynegyth","Cynelufu","Cyneswith","Cynethryth","Cynewyn","Dunne","Eadburh","Eadflæd","Eadgifu","Eadgyth","Eadleofu","Eadwyn","Ealdgyth","Ealhburh","Ealhflæd","Ealhgyth","Ealhswith","Ealhthryth","Ealhwaru","Ealhwyn","Eanburh","Eanflæd","Eanswith","Eormenhild","Folcburh","Friðugyth","Friðuswith","Gænburh","Gode","Godgifu","Heahburh","Heregyth","Hereswith","Hrothwaru","Hungifu","Hungyth","Leofe","Leofflæd","Leofgifu","Leofrun","Leofwaru","Leofwen","Mildburh","Mildthryth","Nerienda","Nothgyth","Osthryth","Sæflæd","Sæthryth","Seaxburh","Seleburh","Selethryth","Sigeburh","Sigeflæd","Swuste","Walenburh","Wærburh","Wærthryth","Wigburh","Wigswith","Wihtburh","Wihtflæd","Wilflæd","Wilnoð","Winflæd","Wulfflæd","Wulfgifu","Wulfgyth","Wulfrun","Wulfswith","Wulfthryth","Wulfwaru","Wulfwyn"]
+		},
+		"german":{
+			"male":["Achatius","Adam","Adelman","Adolfus","Agilwardus","Alardus","Albrecht","Alexander","Alexius","Ambrosius","Andreas","Anselm","Antonius","Arnold","Arnulf","Augustin","Baldewin","Balthasar","Bartilmebis","Benedictus","Berchtold","Bechtold","Bernhard","Berold","Bertolf","Bertram","Berwicus","Blasius","Bogusch","Bonifacius","Bruno","Burghard","Burgold","Burgolt","Caspar","Christoff","Clemens","Conrad","Craft","Cristanus","Daniel","David","Dietmar","Dippelt","Dirske","Diterich","Ditwin","Dominicus","Donat","Eberhard","Eckehard","Egidius","Elgast","Elger","Enewalt","Engelbrecht","Engelgerus","Engelusch","Erasmus","Erlemannus","Ermelaus","Ermenrich","Ernestus","Eustacius","Fabian","Friderich","Gabriel","Gawin","Gebhard","Gelfrat","Georg","Gerhard","Gerlach","Gernot","Gerold","Gerung","Giselbrecht","Gislerus","Glogryan","Goswin","Gotboldus","Gotfrid","Gothardus","Gotschalg","Gregor","Greimolt","Gumprecht","Gundram","Gunther","Gutwin","Hartlib","Hartman","Hartnid","Hartmudus","Hartrad","Hartung","Heidenrich","Hellenboldus","Hellenbrecht","Helwig","Hempel","Herbord","Herdegen","Herman","Herterich","Hertwig","Herwyg","Hieronymus","Hildebrand","Hildiger","Hugo","Hunold","Iwan","Jacob","Jodocus","Jordan","Lamprecht","Lauryn","Lazarus","Leonardus","Leupold","Leuthold","Libing","Liphardus","Lorencz","Ludolf","Ludwig","Lukas","Luther","Manegold","Marcus","Markward","Martin","Matern","Mathias","Meffrid","Meinhard","Melchior","Merbot","Michael","Nanker","Neidhart","Nicolaus","Nymandus","Ortlieb","Ortolf","Osprant","Oswald","Otmar","Otnand","Otto","Pankratz","Paris","Partschfall","Paschalis","Patrice","Paul","Peregrinus","Philipp","Poppe","Procop","Ramwold","Ramung","Raphael","Reinhard","Reinolt","Reiprecht","Reynfrid","Richart","Richel","Richolf","Ropot","Rudolf","Ruland","Rumpolt","Ruprecht","Salomon","Samuel","Seybke","Sibot","Sigfrid","Sighard","Sigmund","Stanislaus","Steffan","Swydeger","Symon","Thadeus","Thamme","Thomas","Tristram","Truchtlip","Trutwin","Ulrich","Urban","Valten","Vasold","Veit","Vinczencz","Volkmar","Volkwin","Walther","Warmund","Wenczel","Wernher","Wicher","Wigand","Wigelois","Wikman","Wiland","Wilhelm","Wilher","Wilrich","Winand","Winrich","Wiprecht","Witche","Wolf","Wolferam","Wolfhart","Wolfker","Wolfgang","Wortwin","Ytel","Zacharias","Zobeslaus"],
+			"female":["Agathe","Aythe","Agnise","Nyze","Agnete","Nethe","Aleyd","Adelheid","Alusch","Alke","Amalie","Anna","Anne","Enneleyn","Apollonia","Barbara","Beate","Beatke","Benedicta","Benusch","Berchte","Bertrâdis","Bertrôd","Cäsarea","Cecilia","Cilie","Czylle","Christine","Kirstyn","Kirstan","Czyne","Clare","Demut","Müte","Dorothye","Elisabeth","Elzebeth","Else","Elze","Ilse","Nele","Neleke","Enede","Eneyde","Engel","Eufemia","Feme","Femeke","Gerdrut","Girdrud","Gerke","Gyrlin","Gerusch","Geruscha","Gele","Lusche","Gudradis","Gütel","Hedwig","Heze","Hezke","Heske","Heile","Helena","Lena","Lenne","Herburg","Herlinde","Hildegund","Hille","Hilusch","Helusch","Irmeltrud","Irmel","Irmusch","Isentrud","Ysentrud","Jutte","Katherine","Katherin","Katheryn","Katharina","Katerina","Kethe","Keterlyn","Katusch","Kunegunde","Cunne","Künne","Cunneke","Könusch","Liphilt","Libe","Libeste","Libusch","Lucie","Magdalena","Margarethe","Margrite","Margryte","Grite","Merlin","Merlyn","Maneth","Manith","Marusch","Marie","Mechthild","Mecze","Osanna","Sanne","Osterhild","Osterhildis","Ottilie","Otilge","Ilg","Salomea","Salmey","Sophie","Phye","Ursula","Ute","Veronica","Fronika","Yrmegard","Ermegart","Ermel"]
+		}
+	}
+}
