@@ -1,0 +1,42 @@
+[
+	{
+		"output":"The city sustains itself using",
+		"fieldType":"list",
+		"minSelect":1,
+		"maxSelect":3,
+		"values":[
+			["Nature Magic",1],
+			["Diminutive Farmers",3],
+			["Mechanical Beasts",2],
+			["Alchemy",2],
+			["Population Control",2]
+		]
+	},
+	{
+		"output":"The city has a population of",
+		"fieldType":"range",
+		"minSelect":1,
+		"maxSelect":1,
+		"values":[3000, 50000]
+	},
+	{
+		"output":"The city is ruled by",
+		"fieldType":"list",
+		"minSelect":1,
+		"maxSelect":1,
+		"values":[
+			["The head of a noble family",2],
+			["A council of nobles",3],
+			["A council of wealthy merchants",2],
+			["A council of elected officials",3],
+			["An elected leader",2],
+			["A hereditary sovereign",2],
+			["A tyrant",2],
+			["A warlord",2],
+			["A cabal wizards",1],
+			["The leaders of a religious order",3]
+		]
+	},
+	{
+	
+]

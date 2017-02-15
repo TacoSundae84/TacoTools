@@ -1,0 +1,146 @@
+{
+	"arctic":{
+		"display":"Arctic",
+		"list":[
+			"Silver Hibiscus",
+			"Mortflesh Powder",
+			"Ironwood Heart",
+			"Frozen Seedlings x2",
+			"common", "common", "common",
+			"Arctic Creeper x2",
+			"Fennel Silk",
+			"Fiend's Ivy",
+			"Voidroot"
+		]
+	},
+	"coastal":{
+		"display":"Coastal / Underwater",
+		"list":[
+			"Hydrathistle x2",
+			"Amanita Cap",
+			"Hyacinth Nectar",
+			"Chromus Slime x2",
+			"common", "common", "common",
+			"Lavender Sprig",
+			"Blue Toadshade",
+			"Wrackwort Bulbs",
+			"Cosmos Glond x2"
+		]
+	},
+	"desert":{
+		"display":"Desert",
+		"list":[
+			"Cosmos Glond",
+			"Arrow Root",
+			"Dried Ephedra",
+			"Cactus Juice x2",
+			"common", "common", "common",
+			"Drakus Flower",
+			"Scillia Beans",
+			"Spineflower Berries",
+			"Voidroot"
+		]
+	},
+	"forest":{
+		"display":"Forest",
+		"list":[
+			"Harrada Leaf",
+			"Nightshade Berries",
+			"Emetic Wax",
+			"Verdent Nettle",
+			"common", "common", "common",
+			"Arrow Root",
+			"Ironwood Heart",
+			"Blue Toadshade",
+			"Wisp Stalks x2"
+		]
+	},
+	"grasslands":{
+		"display":"Grasslands",
+		"list":[
+			"Harrada Leaf",
+			"Drakus Flower",
+			"Lavender Sprig x2",
+			"Arrow Root",
+			"common", "common", "common",
+			"Scillia Beans x2",
+			"Genko Brush",
+			"Tail Leaf",
+			"Hyancinth Nectar"
+		]
+	},
+	"hills":{
+		"display":"Hills",
+		"list":[
+			"Devil's Bloodleaf",
+			"Nightshade Berries",
+			"Tail Leaf x2",
+			"Lavender Sprig",
+			"common", "common", "common",
+			"Ironwood Heart",
+			"Genko Brush",
+			"Rock Vine x2",
+			"Harrada Leaf"
+		]
+	},
+	"mountains":{
+		"display":"Mountains",
+		"list":[
+			"Basilik's Breath",
+			"Frozen Seedlings x2",
+			"Arctic Creeper x2",
+			"Dried Ephedra",
+			"common", "common", "common",
+			"Drakus Flower",
+			"Luminous Cap Dust x2",
+			"Rock Vine",
+			"Primordial Balm"
+		]
+	},
+	"swamp":{
+		"display":"Swamp",
+		"list":[
+			"Devil's Bloodleaf",
+			"Spineflower Berries",
+			"Emetic Wax",
+			"Amantia Cap x2",
+			"common", "common", "common",
+			"Blue Toadshade x2",
+			"Wrackwort Bulb",
+			"Hydrathistle x2",
+			"Primordial Balm"
+		]
+	},
+	"caves":{
+		"display":"Caves",
+		"list":[
+			"Primordial Balm x2",
+			"Silver Hibiscus",
+			"Devil's Bloodleaf",
+			"Chromus Slime",
+			"Mortflesh Powder", 
+			"Fennel Silk", 
+			"Fiend's Ivy",
+			"Genko Brush",
+			"Luminous Cap Dust x2",
+			"Radiant Synthseed",
+			"Wisp Stalks"
+		]
+	},
+	"common":{
+		"display":"Common",
+		"list":[
+			"Mandrake Root",
+			"Quicksilver Lichen",
+			"Quicksilver Lichen",
+			"Wild Sageroot",
+			"Wild Sageroot",
+			"Bloodgrass",
+			"Wyrmtongue Petals",
+			"Wyrmtongue Petals",
+			"Milkweed Seeds",
+			"Milkweed Seeds",
+			"Mandrake Root"
+		]
+	}
+}
