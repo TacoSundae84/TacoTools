@@ -30,7 +30,7 @@ function HerbRandomizer(){
 			var tmp = tab[terrain].list[roll];
 			
 			// check for elemental water
-			if([0, 1, 9, 10].indexOf(roll) != -1 && Roll('1d100') >= 50) herbs.push('Elemental Water');
+			if([0, 1, 3, 8, 9, 10].indexOf(roll) != -1 && Roll('1d100') >= 75) herbs.push('Elemental Water');
 			
 			// add the herbs
 			if(tmp != 'common') herbs.push(tmp);
