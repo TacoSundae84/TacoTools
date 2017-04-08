@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>TacoSundae's Simple Tables</title>
+		<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+		<script src="SimpleTables.js"></script>
+		<link href="../TacoTools.css" rel="stylesheet" />
+		<script>$(document).ready(function(){$('nav').load('../header.html');});</script>
+	</head>
+	
+	<body>
+		<header>
+			<h1>Simple Tables</h1>
+			<nav></nav>
+		</header>
+		<main>
+			<form id="randGenForm">
+				<div class="buttonBox">
+					<span id="raceBox"><select id="terrainSelect"></select></span>
+					<button type="submit">Roll</button>
+				</div>
+				<div id="result"></div>
+			</form>
+		</main>
+	</body>
+</html>
