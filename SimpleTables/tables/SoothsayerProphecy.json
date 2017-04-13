@@ -2,16 +2,15 @@
 	"Method":[
 		"Slices a lamb open with a gloved hand and inspects its viscera as they tumble to the floor.",
 		"Examines a flock of birds through an apparatus with many lenses and mirrors.",
-		"Delivers their pronouncement while reading the newspaper. You cannot see their face.",
 		"Inhales a bright red powder from a carved silver box and shrieks their prediction as they whirl around the room, arms outstretched, eyes vacant.",
 		"Screams as their head snaps back and their back arches, then whispers a prophecy.",
 		"Cuts a hole in your palm and peers inside for strange truths.",
 		"Is eating breakfast and describes your future with a spray of crumbs.",
-		"Dies, thrashing and bleeding from the mouth, even as their peals of laughter fill the chamber.",
+		"Dies, thrashing and bleeding from the mouth, even as their peals of laughter fill the chamber."
 	],
- 
 
- 
+
+
 	"Fortune":[
 		"You will perish in your moment of most awful triumph.",
 		"Yellow is the colour of madness, and red is the colour of fear.",
@@ -42,6 +41,6 @@
 		"You will reap great profit from a scene of terrible bloodshed.",
 		"The guardian grows feeble, even as the beast gnaws at its chains.",
 		"Soon, a harvest will yield dangerous fruit.",
-		"Run",
+		"Run"
 	]
 }
